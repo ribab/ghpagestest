@@ -1,1 +1,8 @@
+title: GHPages Test
+description: GHPages Test Description
+
+
 theme: jekyll-theme-time-machine
+
+show_downloads: false
+
